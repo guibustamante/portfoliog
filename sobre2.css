@@ -1,0 +1,118 @@
+body {
+  background-image: linear-gradient(to right, #dc6a00, #ffad61);
+}
+
+.home {
+  position: absolute;
+  width: 209px;
+  height: 52px;
+  left: 60px;
+  top: 30px;
+
+  font-family: "Press Start 2p";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.foguete {
+  position: absolute;
+  width: 97px;
+  height: 76px;
+  left: 220px;
+  top: 15px;
+}
+
+.titulo {
+  position: absolute;
+  width: 963px;
+  height: 50px;
+  left: 478px;
+  top: 60px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.pergunta {
+  position: absolute;
+  width: 1570px;
+  height: 66px;
+  left: 240px;
+  top: 136px;
+
+  font-family: Patrick Hand SC;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.resposta1 {
+  position: absolute;
+  width: 1731px;
+  height: 191px;
+  left: 97px;
+  top: 250px;
+
+  font-family: "Patrick Hand SC";
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.euGameImagem {
+  position: absolute;
+  width: 410px;
+  height: 341px;
+  left: 129px;
+  top: 550px;
+}
+
+.resposta2 {
+  position: absolute;
+  width: 1207px;
+  height: 398px;
+  left: 657px;
+  top: 500px;
+
+  font-family: Patrick Hand SC;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.resposta3 {
+  position: absolute;
+  width: 1734px;
+  height: 324px;
+  left: 97px;
+  top: 900px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.pagina1 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 852px;
+  top: 1405px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+  padding-bottom: 50px;
+}
+
+.pagina1:hover{
+  top: 1412px;
+  box-shadow: 0 4px 4px #999;
+  transition: all 0.2s ease-in-out;
+}

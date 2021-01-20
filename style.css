@@ -1,0 +1,99 @@
+body {
+  background-image: linear-gradient(green, gray);
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+
+.foguete {
+  position: absolute;
+  width: 188px;
+  height: 155px;
+  right: 1360px;
+  top: 123px;
+}
+
+.style1 {
+  position: absolute;
+  width: 726px;
+  height: 143px;
+  left: calc(50% - 726px / 2);
+  top: 50px;
+
+  font-family: "Miltonian";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 120px;
+  line-height: 143px;
+}
+
+.style2 {
+  position: absolute;
+  width: 1078px;
+  height: 146px;
+  left: 427px;
+  top: 300px;
+
+  font-family: "Ribeye";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 68px;
+}
+
+.style3 {
+  position: absolute;
+  width: 451px;
+  height: 54px;
+  left: 390px;
+  top: 550px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+}
+.style3:hover {
+  top: 557px;
+  -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
+  transform: rotateZ(-360deg) scale(1);
+}
+
+.style4 {
+  position: absolute;
+  width: 406px;
+  height: 50px;
+  left: 750px;
+  top: 670px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+}
+.style4:hover{
+  top: 677px;
+  -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
+  transform: rotateZ(-360deg) scale(1);
+}
+
+.style5 {
+  position: absolute;
+  width: 600px;
+  height: 50px;
+  left: 1000px;
+  top: 550px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+}
+.style5:hover{
+  top: 557px;
+  -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
+  transform: rotateZ(-360deg) scale(1);
+}

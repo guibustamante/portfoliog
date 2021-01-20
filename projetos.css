@@ -1,0 +1,249 @@
+body {
+  background-image: linear-gradient(to right, #005459, gray);
+}
+
+.home {
+  position: absolute;
+  width: 209px;
+  height: 52px;
+  left: 60px;
+  top: 30px;
+
+  font-family: "Press Start 2p";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.foguete {
+  position: absolute;
+  width: 97px;
+  height: 76px;
+  left: 220px;
+  top: 15px;
+}
+
+.titulo {
+  position: absolute;
+  width: 403px;
+  height: 51px;
+  left: 758px;
+  top: 30px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.descricao1 {
+  position: absolute;
+  width: 877px;
+  height: 127px;
+  left: 177px;
+  top: 130px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista1 {
+  position: absolute;
+  width: 811px;
+  height: 121px;
+  left: 243px;
+  top: 304px;
+
+  font-family: "Patrick Hand SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista2 {
+  position: absolute;
+  width: 811px;
+  height: 121px;
+  left: 243px;
+  top: 364px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.imageProjeto {
+  position: relative;
+  width: 1000px;
+  height: 313px;
+  left: 446px;
+  top: 440px;
+}
+.imageProjeto:hover {
+  top: 447px;
+  box-shadow: 0 4px 4px #999;
+  transition: all 0.2s ease-in-out;
+}
+
+.descricao2 {
+  position: absolute;
+  width: 877px;
+  height: 66px;
+  left: 177px;
+  top: 800px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista3 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 900px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista4 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 950px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista5 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 1000px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.imgInsta {
+  position: absolute;
+  width: 1000px;
+  height: 511px;
+  left: 460px;
+  top: 1100px;
+}
+
+.imgInsta:hover {
+  top: 1107px;
+  box-shadow: 0 4px 4px #999;
+  transition: all 0.2s ease-in-out;
+}
+
+.descricao3 {
+  position: absolute;
+  width: 877px;
+  height: 66px;
+  left: 177px;
+  top: 1620px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista6 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 1720px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista7 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 1770px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista8 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 1820px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.lista9 {
+  position: absolute;
+  width: 811px;
+  height: 198px;
+  left: 243px;
+  top: 1870px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.imgDino {
+  position: absolute;
+  width: 751px;
+  height: 243px;
+  left: 460px;
+  top: 1980px;
+  padding-bottom: 50px;
+}
+
+.imgDino:hover {
+  top: 1987px;
+  box-shadow: 0 4px 4px #999;
+  transition: all 0.2s ease-in-out;
+}

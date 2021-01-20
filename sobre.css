@@ -1,0 +1,173 @@
+body {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+
+  background-image: linear-gradient(to right, #6c6800, white);
+}
+
+.home {
+  position: absolute;
+  width: 209px;
+  height: 52px;
+  left: 60px;
+  top: 30px;
+
+  font-family: "Press Start 2p";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.foguete {
+  position: absolute;
+  width: 97px;
+  height: 76px;
+  left: 220px;
+  top: 15px;
+}
+
+
+.sobreTitulo {
+  position: absolute;
+  width: 825px;
+  height: 51px;
+  left: calc(50% - 726px / 2);
+  top: 50px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 50px;
+}
+
+.apresent {
+  position: absolute;
+  width: 820px;
+  height: 68px;
+  left: 87px;
+  top: 120px;
+
+  font-family: "Patrick Hand SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 68px;
+}
+
+.lista1 {
+  position: absolute;
+  width: 1230px;
+  height: 259px;
+  left: 87px;
+  top: 292px;
+
+  font-family: "Patrick Hand SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 60px;
+}
+.retangulo1 {
+  position: absolute;
+  width: 222px;
+  height: 353px;
+  left: 1477px;
+  top: 94px;
+
+  background: #640000;
+}
+.eu {
+  position: absolute;
+  width: 203px;
+  height: 336px;
+  left: 1486px;
+  top: 103px;
+}
+
+.lista2 {
+  position: absolute;
+  width: 1135px;
+  height: 271px;
+  left: 738px;
+  top: 559px;
+
+  font-family: "Patrick Hand SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.familiaImagem {
+  position: absolute;
+  width: 548px;
+  height: 301px;
+  left: 98px;
+  top: 510px;
+}
+
+.retangulo2 {
+  position: absolute;
+  width: 570px;
+  height: 317px;
+  left: 87px;
+  top: 502px;
+
+  background: #640000;
+}
+
+.retangulo3 {
+  position: absolute;
+  width: 252px;
+  height: 383px;
+  left: 1470px;
+  top: 890px;
+
+  background: #640000;
+}
+
+.lista3 {
+  position: absolute;
+  width: 1109px;
+  height: 343px;
+  left: 87px;
+  top: 950px;
+
+  font-family: Patrick Hand SC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 68px;
+}
+
+.euket {
+  position: absolute;
+  width: 233px;
+  height: 366px;
+  left: 1480px;
+  top: 900px;
+}
+
+.pagina2 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1002px;
+  top: 1405px;
+
+  font-family: "Press Start 2P";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+  padding-bottom: 30px;
+}
+
+.pagina2:hover{
+  top: 1412px;
+  box-shadow: 0 4px 4px #999;
+  transition: all 0.2s ease-in-out;
+}
