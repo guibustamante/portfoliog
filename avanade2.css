@@ -1,0 +1,128 @@
+.home {
+    position: absolute;
+    width: 209px;
+    height: 52px;
+    left: 60px;
+    top: 30px;
+  
+    font-family: "Press Start 2p";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 50px;
+  }
+  
+  .foguete {
+    position: absolute;
+    width: 97px;
+    height: 76px;
+    left: 220px;
+    top: 15px;
+  }
+
+.imgFundo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .titulo {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    left: 785px;
+    top: 30px;
+    
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .pergunta{
+    position: absolute;
+    width: 908px;
+    height: 68px;
+    left: 84px;
+    top: 140px;
+    
+    font-family: 'Patrick Hand SC';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 68px;
+  }
+
+  .p1{
+    position: absolute;
+    width: 1723px;
+    height: 466px;
+    left: 82px;
+    top: 220px;
+    
+    font-family: Patrick Hand SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 68px;
+  }
+
+  .p2{
+    position: absolute;
+    width: 1092px;
+    height: 391px;
+    left: 790px;
+    top: 680px;
+    
+    font-family: Patrick Hand SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 68px;
+  }
+
+  .imgEquipe{
+    position: absolute;
+    width: 562px;
+    height: 338px;
+    left: 101px;
+    top: 650px;
+  }
+
+  .p3{
+    position: absolute;
+    width: 1767px;
+    height: 272px;
+    left: 76px;
+    top: 1020px;
+    
+    font-family: Patrick Hand SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 68px;
+  }
+
+  .proxPag {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 960px;
+    top: 1300px;
+    padding-bottom:30px;
+  
+    font-family: "Press Start 2P";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .proxPag:hover{
+    top: 1307px;
+    transition: all 0.2s ease-in-out;
+  }
+  

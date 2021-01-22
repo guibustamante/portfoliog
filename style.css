@@ -13,6 +13,14 @@ body {
   top: 123px;
 }
 
+.imgControle{
+  position: absolute;
+  width: 108px;
+  height: 75px;
+  right: 450px;
+  top: 185px;
+}
+
 .style1 {
   position: absolute;
   width: 726px;
@@ -20,7 +28,7 @@ body {
   left: calc(50% - 726px / 2);
   top: 50px;
 
-  font-family: "Miltonian";
+  font-family: 'Miltonian';
   font-style: normal;
   font-weight: normal;
   font-size: 120px;
@@ -34,7 +42,7 @@ body {
   left: 427px;
   top: 300px;
 
-  font-family: "Ribeye";
+  font-family: 'Ribeye';
   font-style: normal;
   font-weight: normal;
   font-size: 50px;
@@ -48,7 +56,7 @@ body {
   left: 390px;
   top: 550px;
 
-  font-family: "Press Start 2P";
+  font-family: 'Press Start 2P';
   font-style: normal;
   font-weight: normal;
   font-size: 50px;
@@ -57,17 +65,17 @@ body {
 .style3:hover {
   top: 557px;
   -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
-  transform: rotateZ(-360deg) scale(1);
+  transform: rotateZ(-360deg) scale(1.1);
 }
 
 .style4 {
   position: absolute;
   width: 406px;
   height: 50px;
-  left: 750px;
+  left: 390px;
   top: 670px;
 
-  font-family: "Press Start 2P";
+  font-family: 'Press Start 2P';
   font-style: normal;
   font-weight: normal;
   font-size: 50px;
@@ -76,7 +84,7 @@ body {
 .style4:hover{
   top: 677px;
   -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
-  transform: rotateZ(-360deg) scale(1);
+  transform: rotateZ(-360deg) scale(1.1);
 }
 
 .style5 {
@@ -86,7 +94,7 @@ body {
   left: 1000px;
   top: 550px;
 
-  font-family: "Press Start 2P";
+  font-family: 'Press Start 2P';
   font-style: normal;
   font-weight: normal;
   font-size: 50px;
@@ -95,5 +103,24 @@ body {
 .style5:hover{
   top: 557px;
   -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
-  transform: rotateZ(-360deg) scale(1);
+  transform: rotateZ(-360deg) scale(1.1);
+}
+
+.style6{
+  position:absolute;
+  width: 600px;
+  height: 50px;
+  left: 1000px;
+  top: 670px;
+
+  font-family: 'Press Start 2P';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 50px;
+}
+
+.style6:hover{
+  -webkit-filter: drop-shadow(5px 5px 1px rgba(0, 0, 0, 0.5));
+  transform: rotateZ(-360deg) scale(1.1);
 }
